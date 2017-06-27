@@ -16,8 +16,16 @@ A bunch of default packages are provided to get you started:
 - [priority](packages/priority.json)
 - [status](packages/status.json)
 - [type](packages/type.json)
+- [robinpowered](packages/robinpowered.json)
+- [robinpowered-swolebot](packages/robinpowered-swolebot.json)
 
 You can use these packages with both [git-label](https://github.com/jasonbellamy/git-label) and [git-label-cli](https://github.com/jasonbellamy/git-label-cli).
+
+### Packages
+
+The [robinpowered](packages/robinpowered.json) package contains label definitions from blog post [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
+
+![Labels sample](assets/robin-github-issue-tag-system.png)
 
 
 ## Developing

@@ -25,7 +25,7 @@ You can use these packages with both [git-label](https://github.com/jasonbellamy
 
 The [robinpowered](packages/robinpowered.json) package contains label definitions from blog post [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
 
-![Labels sample](assets/robin-github-issue-tag-system.png)
+<img src="assets/robin-github-issue-tag-system.png" alt="robinpowered labels sample" width="50%">
 
 
 ## Developing
